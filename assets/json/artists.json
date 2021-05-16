@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Armin Van Buuren",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "a",
+    "facebookAccount": "a",
+    "twitterAccount": "a"
+  },
+  {
+    "id": 1,
+    "name": "Martin Garrix",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "b",
+    "facebookAccount": "b",
+    "twitterAccount": "b"
+  },
+  {
+    "id": 2,
+    "name": "Quentyn",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "c",
+    "facebookAccount": "c",
+    "twitterAccount": "c"
+  },
+  {
+    "id": 3,
+    "name": "Ari Laso",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "d",
+    "facebookAccount": "d",
+    "twitterAccount": "d"
+  },
+  {
+    "id": 4,
+    "name": "Ariel Peterpan",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "e",
+    "facebookAccount": "e",
+    "twitterAccount": "e"
+  },
+  {
+    "id": 5,
+    "name": "Kangen Band",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "f",
+    "facebookAccount": "f",
+    "twitterAccount": "f"
+  },
+  {
+    "id": 6,
+    "name": "Sheila on 7",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "g",
+    "facebookAccount": "g",
+    "twitterAccount": "g"
+  },
+  {
+    "id": 7,
+    "name": "Fourtwnty",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "h",
+    "facebookAccount": "h",
+    "twitterAccount": "h"
+  },
+  {
+    "id": 8,
+    "name": "Ada Band",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "i",
+    "facebookAccount": "i",
+    "twitterAccount": "i"
+  },
+  {
+    "id": 9,
+    "name": "Wali Band",
+    "photo": "https://picsum.photos/250?image=9",
+    "instagramAccount": "l",
+    "facebookAccount": "l",
+    "twitterAccount": "l"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "name": "DWP BALI",
+    "date": "01 - 3 - 2011",
+    "time": "18.00 - 24.00",
+    "location": "Bali",
+    "price": "150.000",
+    "genre": "edm",
+    "image": "assets/images/bosscha.jpg",
+    "artists": [
+      {
+        "id": "1"
+      },
+      {
+        "id": "2"
+      },
+      {
+        "id": "3"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "DWP JAKARTA",
+    "location": "jakarta",
+    "date": "02 - 3 - 2011",
+    "time": "19.00 - 24.00",
+    "price": "250.000",
+    "genre": "edm",
+    "image": "assets/images/farm-house.jpg",
+    "artists": [
+      {
+        "id": "3"
+      },
+      {
+        "id": "4"
+      },
+      {
+        "id": "5"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "BOROBUDUR FEST",
+    "location": "Yogjakarta",
+    "date": "03 - 3 - 2011",
+    "time": "20.00 - 24.00",
+    "price": "350.000",
+    "genre": "rap",
+    "image": "assets/images/floating-market.png",
+    "artists": [
+      {
+        "id": "5"
+      },
+      {
+        "id": "6"
+      },
+      {
+        "id": "7"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ANAK SENJA FEST",
+    "location": "Sidoarjo",
+    "date": "04 - 3 - 2011",
+    "time": "21.00 - 24.00",
+    "price": "450.000",
+    "genre": "jazz",
+    "image": "assets/images/jalan-asia-afrika.jpg",
+    "artists": [
+      {
+        "id": "7"
+      },
+      {
+        "id": "8"
+      },
+      {
+        "id": "9"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "SURABAYA SENJA",
+    "location": "Surabaya",
+    "date": "05 - 3 - 2011",
+    "time": "22.00 - 24.00",
+    "price": "550.000",
+    "genre": "acoustic",
+    "image": "assets/images/kawah-putih.jpg",
+    "artists": [
+      {
+        "id": "7"
+      },
+      {
+        "id": "9"
+      },
+      {
+        "id": "0"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "JOMBANG SENJA",
+    "location": "Jombang",
+    "date": "06 - 3 - 2011",
+    "time": "23.00 - 24.00",
+    "price": "650.000",
+    "genre": "acoustic",
+    "image": "assets/images/museum-geologi.jpg",
+    "artists": [
+      {
+        "id": "4"
+      },
+      {
+        "id": "5"
+      },
+      {
+        "id": "7"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "BALI FEST",
+    "location": "Bali",
+    "date": "07 - 3 - 2011",
+    "time": "24.00 - 24.00",
+    "price": "750.000",
+    "genre": "jazz",
+    "image": "assets/images/ranca-upas.jpg",
+    "artists": [
+      {
+        "id": "1"
+      },
+      {
+        "id": "6"
+      },
+      {
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "JAKARTA KERONCONG",
+    "location": "Jakarta",
+    "date": "08 - 3 - 2011",
+    "time": "01.00 - 24.00",
+    "price": "850.000",
+    "genre": "acoustic",
+    "image": "assets/images/stone-garden.jpg",
+    "artists": [
+      {
+        "id": "4"
+      },
+      {
+        "id": "2"
+      },
+      {
+        "id": "6"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "SURABAYA NIGHT CLUB",
+    "location": "Surabaya",
+    "date": "09 - 3 - 2011",
+    "time": "02.00 - 24.00",
+    "price": "950.000",
+    "genre": "edm",
+    "image": "assets/images/taman-film.jpg",
+    "artists": [
+      {
+        "id": "1"
+      },
+      {
+        "id": "5"
+      },
+      {
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "EDM FEST",
+    "location": "Bogor",
+    "date": " - 3 - 2011",
+    "time": "03.00 - 24.00",
+    "price": "50.000",
+    "genre": "edm",
+    "image": "assets/images/farm-house.jpg",
+    "artists": [
+      {
+        "id": "8"
+      },
+      {
+        "id": "7"
+      },
+      {
+        "id": "6"
+      }
+    ]
+  }
+]
