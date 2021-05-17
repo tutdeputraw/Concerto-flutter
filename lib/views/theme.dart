@@ -1,13 +1,13 @@
 part of 'init.dart';
 
 //margin
-const double leftRightMargin = 24;
-const double defaultMargin = 28;
-const double subMargin = 16;
-const double cardMargin = 12;
+const double margin1 = 24;
+const double margin2 = 28;
+const double margin3 = 16;
+const double margin4 = 12;
 
 //text Size
-const double concertoText = 24;
-const double titleText = 16;
-const double subTitleText = 14;
-const double titleOfIcon = 12;
+const double fontSize1 = 24;
+const double fontSize2 = 16;
+const double fontSize3 = 14;
+const double fontSize4 = 12;

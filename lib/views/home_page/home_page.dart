@@ -7,38 +7,27 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         elevation: 0,
         title: Text('Concerto',
-            style: TextStyle(fontSize: concertoText, color: Colors.black)),
+            style: TextStyle(fontSize: fontSize1, color: Colors.black)),
         backgroundColor: Colors.white,
       ),
-      body: Container(
+      body: Padding(
         padding: const EdgeInsets.fromLTRB(18, 10, 18, 10),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.start,
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                Text('Special Guest Star',
-                    style: TextStyle(fontSize: titleText)),
-                TextButton(
-                  onPressed: () {},
-                  child: Text(
-                    'See More',
-                    style: TextStyle(fontSize: titleOfIcon, color: Colors.blue),
-                  ),
-                )
-              ],
-            ),
-            SizedBox(height: 16),
-            GuestStarHomePage(),
-            SizedBox(height: 28),
-            Text('Upcoming Concert', style: TextStyle(fontSize: titleText)),
-            SizedBox(
-              height: 16,
-            ),
-            ConcertHomePage(),
-          ],
+        child: SingleChildScrollView(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.start,
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              GuestStarSeeMore(),
+              SizedBox(height: 16),
+              GuestStarHomePage(),
+              SizedBox(height: 20),
+              Text('Upcoming Concert', style: TextStyle(fontSize: fontSize2)),
+              SizedBox(height: margin3),
+              ConcertHomePage(),
+              SizedBox(height: margin3),
+              SeeMoreButton(),
+            ],
+          ),
         ),
       ),
     );
