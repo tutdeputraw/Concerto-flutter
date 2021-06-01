@@ -1,0 +1,371 @@
+[
+  {
+    "id": 0,
+    "name": "Djakarta Warehouse Project",
+    "date": "01 - 3 - 2011",
+    "time": "18.00 - 24.00",
+    "location": "The 100 Club – London, England",
+    "price": "150.000",
+    "genre": "EDM",
+    "image": "/images/concert-1.jpg",
+    "artists": [
+      {
+        "id": 0,
+        "name": "Armin Van Buuren",
+        "photo": "https://d2q3ij8678i83u.cloudfront.net/event_header_small/artists/header_image_5dd444768a04b_1574192246.jpg",
+        "instagramAccount": "a",
+        "facebookAccount": "a",
+        "twitterAccount": "a"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Trident",
+    "location": "Sidecar – Barcelona, Spain",
+    "date": "02 - 4 - 2011",
+    "time": "19.00 - 22.00",
+    "price": "250.000",
+    "genre": "EDM",
+    "image": "/images/concert-2.jpg",
+    "artists": [
+      {
+        "id": 0,
+        "name": "Armin Van Buuren",
+        "photo": "https://d2q3ij8678i83u.cloudfront.net/event_header_small/artists/header_image_5dd444768a04b_1574192246.jpg",
+        "instagramAccount": "a",
+        "facebookAccount": "a",
+        "twitterAccount": "a"
+      },
+      {
+        "id": 1,
+        "name": "Martin Garrix",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwnhrRStY9qD7J5GPEENbaQV0y0LAC8Pn0AuCbdLTfA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "b",
+        "facebookAccount": "b",
+        "twitterAccount": "b"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The Paddock",
+    "location": "The Bowery Ballroom – New York City, USA",
+    "date": "03 - 5 - 2011",
+    "time": "20.00 - 23.00",
+    "price": "350.000",
+    "genre": "RAP",
+    "image": "/images/concert-3.jpg",
+    "artists": [
+      {
+
+        "id": 1,
+        "name": "Martin Garrix",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwnhrRStY9qD7J5GPEENbaQV0y0LAC8Pn0AuCbdLTfA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "b",
+        "facebookAccount": "b",
+        "twitterAccount": "b"
+      },
+      {
+        "id": 2,
+        "name": "Quentyn",
+        "photo": "https://pbs.twimg.com/profile_images/1300094180501397504/UFhSBdTZ_400x400.jpg",
+        "instagramAccount": "c",
+        "facebookAccount": "c",
+        "twitterAccount": "c"
+      },
+      {
+        "id": 0,
+        "name": "Armin Van Buuren",
+        "photo": "https://d2q3ij8678i83u.cloudfront.net/event_header_small/artists/header_image_5dd444768a04b_1574192246.jpg",
+        "instagramAccount": "a",
+        "facebookAccount": "a",
+        "twitterAccount": "a"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "MOOSIC",
+    "location": "The Drake Hotel – Toronto, Canada",
+    "date": "04 - 6 - 2011",
+    "time": "21.00 - 24.00",
+    "price": "450.000",
+    "genre": "JAZZ",
+    "image": "/images/concert-4.jpg",
+    "artists": [
+      {
+        "id": 1,
+        "name": "Martin Garrix",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwnhrRStY9qD7J5GPEENbaQV0y0LAC8Pn0AuCbdLTfA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "b",
+        "facebookAccount": "b",
+        "twitterAccount": "b"
+      },
+      {
+        "id": 2,
+        "name": "Quentyn",
+        "photo": "https://pbs.twimg.com/profile_images/1300094180501397504/UFhSBdTZ_400x400.jpg",
+        "instagramAccount": "c",
+        "facebookAccount": "c",
+        "twitterAccount": "c"
+      },
+      {
+        "id": 3,
+        "name": "Petit Biscuit",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Petit_Biscuit_in_Iceland.jpg/1200px-Petit_Biscuit_in_Iceland.jpg",
+        "instagramAccount": "d",
+        "facebookAccount": "d",
+        "twitterAccount": "d"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Neverland",
+    "location": "Zapata Café Bar – Berlin, Germany",
+    "date": "05 - 7 - 2011",
+    "time": "22.00 - 06.00",
+    "price": "550.000",
+    "genre": "ACOUSTIC",
+    "image": "/images/concert-5.jpg",
+    "artists": [
+      {
+        "id": 3,
+        "name": "Petit Biscuit",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Petit_Biscuit_in_Iceland.jpg/1200px-Petit_Biscuit_in_Iceland.jpg",
+        "instagramAccount": "d",
+        "facebookAccount": "d",
+        "twitterAccount": "d"
+      },
+      {
+        "id": 4,
+        "name": "Gryffin",
+        "photo": "https://static.wikia.nocookie.net/edm/images/8/81/Gryffin.jpg",
+        "instagramAccount": "e",
+        "facebookAccount": "e",
+        "twitterAccount": "e"
+      },
+      {
+        "id": 2,
+        "name": "Quentyn",
+        "photo": "https://pbs.twimg.com/profile_images/1300094180501397504/UFhSBdTZ_400x400.jpg",
+        "instagramAccount": "c",
+        "facebookAccount": "c",
+        "twitterAccount": "c"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "SoundX",
+    "location": "Prinzenbar – Hamburg, Germany",
+    "date": "06 - 8 - 2011",
+    "time": "23.00 - 03.00",
+    "price": "650.000",
+    "genre": "ACOUSTIC",
+    "image": "/images/concert-6.jpg",
+    "artists": [
+      {
+        "id": 3,
+        "name": "Petit Biscuit",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Petit_Biscuit_in_Iceland.jpg/1200px-Petit_Biscuit_in_Iceland.jpg",
+        "instagramAccount": "d",
+        "facebookAccount": "d",
+        "twitterAccount": "d"
+      },
+      {
+        "id": 4,
+        "name": "Gryffin",
+        "photo": "https://static.wikia.nocookie.net/edm/images/8/81/Gryffin.jpg",
+        "instagramAccount": "e",
+        "facebookAccount": "e",
+        "twitterAccount": "e"
+      },
+      {
+        "id": 5,
+        "name": "Illenium",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwnirJmogeY7RrgLUs1H9eiCwCvXm2txmGxQNXb-szA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "f",
+        "facebookAccount": "f",
+        "twitterAccount": "f"
+      },
+      {
+        "id": 9,
+        "name": "Galantis",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galantis_%2843228984191%29.jpg/1200px-Galantis_%2843228984191%29.jpg",
+        "instagramAccount": "l",
+        "facebookAccount": "l",
+        "twitterAccount": "l"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Futurea",
+    "location": "The Autódromo Hermanos Rodríguez Race Track – Mexico City, Mexico",
+    "date": "07 - 9 - 2011",
+    "time": "24.00 - 06.00",
+    "price": "750.000",
+    "genre": "JAZZ",
+    "image": "/images/concert-1.jpg",
+    "artists": [
+      {
+        "id": 5,
+        "name": "Illenium",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwnirJmogeY7RrgLUs1H9eiCwCvXm2txmGxQNXb-szA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "f",
+        "facebookAccount": "f",
+        "twitterAccount": "f"
+      },
+      {
+        "id": 6,
+        "name": "The Chainsmokers",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwniRwYwFYckJp-5yOCiKGc-0OcSGY7Pse9VrADaWIA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "g",
+        "facebookAccount": "g",
+        "twitterAccount": "g"
+      },
+      {
+        "id": 9,
+        "name": "Galantis",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galantis_%2843228984191%29.jpg/1200px-Galantis_%2843228984191%29.jpg",
+        "instagramAccount": "l",
+        "facebookAccount": "l",
+        "twitterAccount": "l"
+      },
+      {
+        "id": 4,
+        "name": "Gryffin",
+        "photo": "https://static.wikia.nocookie.net/edm/images/8/81/Gryffin.jpg",
+        "instagramAccount": "e",
+        "facebookAccount": "e",
+        "twitterAccount": "e"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Apache",
+    "location": "Vicar Street – Dublin, Ireland",
+    "date": "08 - 10 - 2011",
+    "time": "01.00 - 06.00",
+    "price": "850.000",
+    "genre": "ACOUSTIC",
+    "image": "/images/concert-2.jpg",
+    "artists": [
+      {
+        "id": 5,
+        "name": "Illenium",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwnirJmogeY7RrgLUs1H9eiCwCvXm2txmGxQNXb-szA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "f",
+        "facebookAccount": "f",
+        "twitterAccount": "f"
+      },
+      {
+        "id": 6,
+        "name": "The Chainsmokers",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwniRwYwFYckJp-5yOCiKGc-0OcSGY7Pse9VrADaWIA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "g",
+        "facebookAccount": "g",
+        "twitterAccount": "g"
+      },
+      {
+        "id": 7,
+        "name": "Kygo",
+        "photo": "https://i1.sndcdn.com/artworks-000305148444-or8rw4-t500x500.jpg",
+        "instagramAccount": "h",
+        "facebookAccount": "h",
+        "twitterAccount": "h"
+      },
+      {
+        "id": 9,
+        "name": "Galantis",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galantis_%2843228984191%29.jpg/1200px-Galantis_%2843228984191%29.jpg",
+        "instagramAccount": "l",
+        "facebookAccount": "l",
+        "twitterAccount": "l"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mystic Fortune",
+    "location": "The Fillmore – San Francisco, USA",
+    "date": "09 - 11 - 2011",
+    "time": "02.00 - 06.00",
+    "price": "950.000",
+    "genre": "EDM",
+    "image": "/images/concert-3.jpg",
+    "artists": [
+      {
+        "id": 9,
+        "name": "Galantis",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galantis_%2843228984191%29.jpg/1200px-Galantis_%2843228984191%29.jpg",
+        "instagramAccount": "l",
+        "facebookAccount": "l",
+        "twitterAccount": "l"
+      },
+      {
+        "id": 6,
+        "name": "The Chainsmokers",
+        "photo": "https://yt3.ggpht.com/ytc/AAUvwniRwYwFYckJp-5yOCiKGc-0OcSGY7Pse9VrADaWIA=s900-c-k-c0x00ffffff-no-rj",
+        "instagramAccount": "g",
+        "facebookAccount": "g",
+        "twitterAccount": "g"
+      },
+      {
+        "id": 7,
+        "name": "Kygo",
+        "photo": "https://i1.sndcdn.com/artworks-000305148444-or8rw4-t500x500.jpg",
+        "instagramAccount": "h",
+        "facebookAccount": "h",
+        "twitterAccount": "h"
+      },
+      {
+        "id": 8,
+        "name": "Skrillex",
+        "photo": "https://edm.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3MjI1MzE5MTIyNjA5NDc4/8-skrillex-cr-jason-nocito-press-dj-real-names-billboard-1548-2.jpg",
+        "instagramAccount": "i",
+        "facebookAccount": "i",
+        "twitterAccount": "i"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Lost Lands",
+    "location": "Cherry Bar – Melbourne, Australia",
+    "date": "10 - 12 - 2011",
+    "time": "03.00 - 09.00",
+    "price": "50.000",
+    "genre": "EDM",
+    "image": "/images/concert-4.jpg",
+    "artists": [
+      {
+        "id": 8,
+        "name": "Skrillex",
+        "photo": "https://edm.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU3MjI1MzE5MTIyNjA5NDc4/8-skrillex-cr-jason-nocito-press-dj-real-names-billboard-1548-2.jpg",
+        "instagramAccount": "i",
+        "facebookAccount": "i",
+        "twitterAccount": "i"
+      },
+      {
+        "id": 7,
+        "name": "Kygo",
+        "photo": "https://i1.sndcdn.com/artworks-000305148444-or8rw4-t500x500.jpg",
+        "instagramAccount": "h",
+        "facebookAccount": "h",
+        "twitterAccount": "h"
+      },
+      {
+        "id": 9,
+        "name": "Galantis",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galantis_%2843228984191%29.jpg/1200px-Galantis_%2843228984191%29.jpg",
+        "instagramAccount": "l",
+        "facebookAccount": "l",
+        "twitterAccount": "l"
+      }
+    ]
+  }
+]
